@@ -1,4 +1,4 @@
-h# 
+h# high-frequency dex sniper bot Utility | price-impact-analysis + market-making is the best dex sniper bot, featuring price-impact-analysis and market-making. Smart, fast, and
 
 
 
